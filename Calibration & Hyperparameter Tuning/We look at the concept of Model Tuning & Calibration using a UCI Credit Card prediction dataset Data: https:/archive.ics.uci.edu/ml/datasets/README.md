@@ -10,6 +10,7 @@ Model Tuning & Calibration:
     • Hyper-parameter tuning -> Using Randomised SearchCV which is then used as to narrow down the best parameters using GridSearchCV
     
 We perform the below steps
+
     • Load the data
     • Basic data processing
     • Build a Random Forest model 
